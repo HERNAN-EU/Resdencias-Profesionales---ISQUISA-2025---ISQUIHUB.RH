@@ -99,4 +99,12 @@ ISQUIHUB está diseñado para ser una plataforma **escalable y evolutiva**, con 
 ## Contexto académico
 
 Este proyecto forma parte del cumplimiento de **Residencias Profesionales**, aplicando conocimientos de **Ingeniería en Sistemas Computacionales** a un entorno empresarial real, generando valor operativo y tecnológico para ISQUISA S.A. de C.V.
-```
+
+## Datos del desarrollador
+
+**Nombre:** Eber Uziel López Hernández  
+**Carrera:** Ingeniería en Sistemas Computacionales  
+**Rol:** Residente de Recursos Humanos  
+**Empresa:** ISQUISA S.A. de C.V.  
+**Ubicación:** Córdoba, Veracruz  
+**Correo de contacto:** eber.hernandez_isq@outlook.com
